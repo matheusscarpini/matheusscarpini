@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">👋 Olá! Sou Matheus Scarpini, Analista de Dados  <br>🎓 Pós-graduando em Data Analytics na @FIAP<br>🧠 Formado em Análise e Desenvolvimento de Sistemas  <br><br>💡 Atuo em todo o ciclo analítico: da definição do problema, modelagem e coleta de dados ao tratamento, análise, visualização e geração de insights estratégicos para o negócio  <br>📈 Especialista em análise exploratória, estatística aplicada e storytelling com dados  <br><br>🛠️ Ferramentas:  <br>- SQL | Python (Pandas, NumPy, Scikit-learn, etc)  <br>- Power BI | Excel Avançado (incluindo VBA e Tabelas Dinâmicas)  <br>- Git e GitHub para versionamento e colaboração  <br>- AWS (S3, Athena, Redshift, Glue, QuickSight)<br><br>❤️ Apaixonado por dados e seu poder de transformar negócios e pessoas</p>
+<p align="left">👋 Olá! Sou <b>Matheus Scarpini</b>, <b>Analista de Dados</b>  <br>🎓 Pós-graduando em Data Analytics na <b>@FIAP</b><br>🧠 Formado em <b>Análise e Desenvolvimento de Sistemas</b>  <br><br>💡 Atuo em todo o ciclo analítico: da definição do problema, modelagem e coleta de dados ao tratamento, análise, visualização e geração de insights estratégicos para o negócio  <br>📈 Especialista em análise exploratória, estatística aplicada e storytelling com dados  <br><br>🛠️ Ferramentas:  <br>- SQL | Python (Pandas, NumPy, Scikit-learn, etc)  <br>- Power BI | Excel Avançado (incluindo VBA e Tabelas Dinâmicas)  <br>- Git e GitHub para versionamento e colaboração  <br>- AWS (S3, Athena, Redshift, Glue, QuickSight)<br><br>❤️ Apaixonado por dados e seu poder de transformar negócios e pessoas</p>
 
 ###
 
